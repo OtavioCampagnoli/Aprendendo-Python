@@ -4,4 +4,4 @@ salario = float(input('Informe o seu sálario: (R$)'))
 
 conta: float = salario + (salario * 0.15)
 
-print(f'O novo salário do funcionário {nomeF} com acréscimo de 15% é {conta}.')
+print(f'O novo salário do funcionário {nomeF.upper()} com acréscimo de 15% é {conta}.')
