@@ -1,4 +1,4 @@
-#Faca um programa que leia algo pelo teclado e mostre na tela o seu tipo
+# Faca um programa que leia algo pelo teclado e mostre na tela o seu tipo
 # primitivo e todas as informacoes possiveis sobre ele.
 
 msg = input('Digite alguma coisa: ')
