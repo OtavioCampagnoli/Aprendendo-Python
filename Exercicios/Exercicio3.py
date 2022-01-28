@@ -9,6 +9,9 @@ print(f'\n Tabuada de {n}:')
 
 for i in range(1, 11):
     print(n,'X', i, '=', (n * i))
+    print('Tabuada de dois em dois')
+for i in range(2, 12):
+    print(n, 'X', i, '=', (n ** i))
     
     ## O for é utilizado para percorrer um valor dentro de um alcançe determinado! 
     # (O famoso contador) ele vai contar o valor da variavel ou constante!
